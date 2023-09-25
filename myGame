@@ -45,7 +45,7 @@ public class MyGame extends JFrame implements ActionListener {
         this.add(heading, BorderLayout.NORTH);
 
         // creating object ...
-        clockLable = new JLabel("Rishabh");
+        clockLable = new JLabel("ADITYA");
         clockLable.setFont(font);
         clockLable.setForeground(Color.white);
         clockLable.setHorizontalAlignment(SwingConstants.CENTER);
